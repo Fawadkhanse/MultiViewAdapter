@@ -7,6 +7,7 @@ import android.widget.ImageView
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
 
+
 class ImageListAdapter(private val imageList: List<String>,
                        private val onItemClick: (Int) -> Unit
                        ) :
