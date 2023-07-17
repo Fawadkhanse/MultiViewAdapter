@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- item_view_type2.xml -->
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <!-- Views specific to ViewHolderType2 -->
+    <ImageView
+        android:id="@+id/imageViewType2"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:scaleType="centerCrop" />
+
+    <!-- Add other views specific to ViewHolderType2 -->
+
+</LinearLayout>
